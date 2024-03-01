@@ -23,9 +23,9 @@ const CONFIG = {
   HEO_HERO_TITLE_LINK: 'https://www.gamesushi.cn/article/73d10209-3b32-43e2-a439-08f82bd3cd21',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '任天堂', url: '/tag/任天堂' },
-  HEO_HERO_CATEGORY_2: { title: '寿司谈', url: '/tag/寿司谈' },
-  HEO_HERO_CATEGORY_3: { title: '开发资源', url: '/tag/开发资源' },
+  HEO_HERO_CATEGORY_1: { title: '任天堂专题', url: '/category/任天堂专题' },
+  HEO_HERO_CATEGORY_2: { title: '寿司观点', url: '/category/寿司观点' },
+  HEO_HERO_CATEGORY_3: { title: '数据报告', url: '/category/数据报告' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
@@ -42,7 +42,7 @@ const CONFIG = {
     '🤖️ 数码科技爱好者',
     '🧱 团队小组发动机'
   ],
-  HEO_INFO_CARD_URL: 'https://github.com/tangly1024/NotionNext', // 个人资料底部按钮链接
+  HEO_INFO_CARD_URL: 'gamesushi.cn', // 个人资料底部按钮链接
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
