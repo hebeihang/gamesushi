@@ -23,9 +23,9 @@ const CONFIG = {
   HEO_HERO_TITLE_LINK: 'https://www.gamesushi.cn/article/73d10209-3b32-43e2-a439-08f82bd3cd21',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '任天堂专题', url: '/category/任天堂专题' },
-  HEO_HERO_CATEGORY_2: { title: '寿司观点', url: '/category/寿司观点' },
-  HEO_HERO_CATEGORY_3: { title: '数据报告', url: '/category/数据报告' },
+  HEO_HERO_CATEGORY_1: { title: '开发心得', url: '/category/开发心得' },
+  HEO_HERO_CATEGORY_2: { title: '游戏寿司', url: '/category/游戏寿司' },
+  HEO_HERO_CATEGORY_3: { title: '调研报告', url: '/category/调研报告' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
