@@ -22,6 +22,17 @@ const Footer = ({ title }) => {
           {siteConfig('AUTHOR')}
         </a>
         .<br />
+        .<br />
+
+{/* 法律链接 */}
+<div className="mt-2 space-x-3">
+  <a href="/legal" className="hover:underline">Legal</a>
+  <a href="/privacy" className="hover:underline">Privacy</a>
+  <a href="/terms" className="hover:underline">Terms</a>
+</div>
+
+<BeiAnSite />
+<BeiAnGongAn />                   
         <BeiAnSite />
         <BeiAnGongAn />
         <span className='hidden busuanzi_container_site_pv'>
