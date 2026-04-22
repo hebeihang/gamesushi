@@ -3,7 +3,7 @@ const BLOG = {
 
   NOTION_PAGE_ID:
     process.env.NOTION_PAGE_ID ||
-    '02ab3b8678004aa69e9e415905ef32a5,en:7c1d570661754c8fbc568e00a01fd70e',
+    '201eb06497e04afb9ae785df759fe7a9,en:7c1d570661754c8fbc568e00a01fd70e',
 
   THEME: process.env.NEXT_PUBLIC_THEME || 'simple',
   LANG: process.env.NEXT_PUBLIC_LANG || 'zh-CN',
